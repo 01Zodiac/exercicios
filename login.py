@@ -1,8 +1,8 @@
-#Página de login (senha: 201501453)
+#Página de login (senha: 1234senha)
 
 name = input("Nome: ")
 password = (input("Senha: "))
-if password == ("201501453"):
+if password == ("1234senha"):
   print("Bem-Vindo de Volta,", name)
 else:
   print("Senha Incorreta")
