@@ -1,3 +1,5 @@
+# Jogo de adivinhar o número entre 1 e 5
+
 import random
 
 maquina = random.randint(1, 5)
