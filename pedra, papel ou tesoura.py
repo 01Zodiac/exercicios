@@ -1,10 +1,9 @@
-# city boys
-
+#jogo de pedra, papel ou tesoura contra o computador
 import random
 
-print("Vamos jogar pedra, papel ou tesoura")
+print("<< Vamos jogar pedra, papel ou tesoura >>")
 comp = random.randint(1, 3)
-esc = int(input("""Escolha digitando o número 
+esc = int(input(""">> Escolha digitando o número <<
 Pedra [ 1 ]
 Papel [ 2 ]
 Tesoura [ 3 ]
