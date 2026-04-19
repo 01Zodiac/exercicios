@@ -1,3 +1,5 @@
+#Sorteia 5 valores e mostra o maior e o menor
+
 import random
 num = (random.randint(1, 10), random.randint(1, 10), random.randint(1, 10),
        random.randint(1, 10), random.randint(1, 10))
